@@ -3,7 +3,7 @@ This holds model, frameworks that integrate various frameworks that are key to t
 
 1.	These frameworks are in line to existing national frameworks that can be either overlaid or extended to meet the needs.
 
-2.	Govt as a Company-GaaS, offering GaaS services to its citizens and residents.
+2.	Govt as a Service-GaaS, offering GaaS services to its citizens and residents.
 
 3.	Governance models, frameworks and architecture are based on emerging technologies like QAI, Block chain, AGI, ASI, cloud and digital platforms.
 
